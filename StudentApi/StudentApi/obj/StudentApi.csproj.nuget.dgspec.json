@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj": {}
+    "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj": {
+    "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj",
+        "projectUniqueName": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj",
         "projectName": "StudentApi",
-        "projectPath": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj",
+        "projectPath": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj",
         "packagesPath": "C:\\Users\\WIIS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\obj\\",
+        "outputPath": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

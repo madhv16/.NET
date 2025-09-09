@@ -1,33 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\",
+  "WorkspaceRootPath": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\studentapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\source\\repos\\studentapi\\studentapi\\migrations\\20250903121503_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|c:\\users\\wiis\\desktop\\new folder\\.net\\studentapi\\studentapi\\migrations\\20250903121503_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9100206F-890A-412B-9851-FD3BA8F61B3C}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\migrations\\20250903121503_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,11 +44,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-03T12:16:48.537Z",
               "EditorCaption": ""
@@ -57,21 +57,22 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Program.cs",
               "RelativeDocumentMoniker": "StudentApi\\Program.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Program.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Program.cs",
               "RelativeToolTip": "StudentApi\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-03T12:00:10.475Z"
+              "WhenOpened": "2025-09-03T12:00:10.475Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Models\\Student.cs",
               "RelativeDocumentMoniker": "StudentApi\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Models\\Student.cs",
               "RelativeToolTip": "StudentApi\\Models\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -81,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "20250903121503_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Migrations\\20250903121503_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Migrations\\20250903121503_InitialCreate.cs",
               "RelativeDocumentMoniker": "StudentApi\\Migrations\\20250903121503_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Migrations\\20250903121503_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Migrations\\20250903121503_InitialCreate.cs",
               "RelativeToolTip": "StudentApi\\Migrations\\20250903121503_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +92,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\appsettings.json",
               "RelativeDocumentMoniker": "StudentApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\appsettings.json",
               "RelativeToolTip": "StudentApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -103,11 +104,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "StudentApi\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\Data\\AppDbContext.cs",
               "RelativeToolTip": "StudentApi\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -117,9 +118,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "StudentApi.csproj",
-              "DocumentMoniker": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj",
+              "DocumentMoniker": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj",
               "RelativeDocumentMoniker": "StudentApi\\StudentApi.csproj",
-              "ToolTip": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj",
+              "ToolTip": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj",
               "RelativeToolTip": "StudentApi\\StudentApi.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",

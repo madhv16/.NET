@@ -1,0 +1,84 @@
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.deps.json
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.runtimeconfig.json
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\appsettings.Development.json
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\appsettings.json
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.staticwebassets.runtime.json
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.staticwebassets.endpoints.json
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\System.Text.Encodings.Web.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Options.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\MySqlConnector.dll
+D:\EmsTask7 - Copy\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+D:\EmsTask7 - Copy\EmployeeManagement\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+D:\EmsTask7 - Copy\EmployeeManagement\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+D:\EmsTask7 - Copy\EmployeeManagement\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\appsettings.Development.json
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.deps.json
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.runtimeconfig.json
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\appsettings.json
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.staticwebassets.runtime.json
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.staticwebassets.endpoints.json
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\MySqlConnector.dll
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\WIIS\Desktop\Task7 - Docker\EmployeeManagement\obj\Debug\docker-c.35A3FFBA.Up2Date
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\appsettings.Development.json
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\appsettings.json
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.staticwebassets.endpoints.json
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.deps.json
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.runtimeconfig.json
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.staticwebassets.runtime.json
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.exe
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\MySqlConnector.dll
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\bin\Debug\EmployeeManagement.pdb
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\WIIS\Desktop\New folder\Task7\EmployeeManagement\obj\Debug\docker-c.35A3FFBA.Up2Date

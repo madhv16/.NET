@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "N5qBK/6zqqo=",
+  "dgSpecHash": "9NWX8J/EGzk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\WIIS\\source\\repos\\StudentApi\\StudentApi\\StudentApi.csproj",
+  "projectFilePath": "C:\\Users\\WIIS\\Desktop\\New folder\\.NET\\StudentApi\\StudentApi\\StudentApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\WIIS\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\WIIS\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

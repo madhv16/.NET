@@ -1,0 +1,16 @@
+﻿@model IEnumerable<EmployeeMgmt.Models.Employee>
+
+<h2>Employees List</h2>
+<a href="/Employees/Create">Add Employee</a>
+<table border="1" cellpadding="5">
+    <tr><th>ID</th><th>Name</th><th>Email</th><th>Department</th></tr>
+    @foreach (var e in Model)
+    {
+        <tr>
+            <td>@e.Id</td>
+            <td>@e.Name</td>
+            <td>@e.Email</td>
+            <td>@e.Department</td>
+        </tr>
+    }
+</table>
